@@ -2,7 +2,7 @@
 
 Download the zip file and extract<br>
 Give exicute permission to the dns_enum.sh<br>
-      or<br>
+              or<br>
 git clone https://github.com/c0d367/dns_enum.git<br>
 chmod 755 dns_enum.sh
   
