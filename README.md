@@ -1,6 +1,6 @@
 # dns_enum
-This tool for collecting Details(IPv4, IPv6, CNAME, MAIL SERVER, TEXT) of a server
-this is simplifying the task of DIG
+This tool for collecting Details(IPv4, IPv6, CNAME, MAIL SERVER, TEXT) of a server.
+This is simplifying the task of DIG
 
 Download the zip file and extract<br>
 Give exicute permission to the dns_enum.sh<br>
