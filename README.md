@@ -20,5 +20,8 @@ chmod 755 dns_enum.sh</i>
   ## Menu
   ![menu](https://user-images.githubusercontent.com/64792340/107806180-63951480-6d5e-11eb-996d-aa5aeb4c7adc.png)
   
-  ## Direct scaning using Domain name
+  ## Direct scanning using Domain name
   ![Direct_scaning_1](https://user-images.githubusercontent.com/64792340/107806727-1d8c8080-6d5f-11eb-9eec-967ba3460526.png)
+  
+  ## Scanning using file
+  ![File_scaning_1](https://user-images.githubusercontent.com/64792340/107807185-adcac580-6d5f-11eb-9b4e-d339634e3f4d.png)
