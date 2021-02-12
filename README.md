@@ -1,5 +1,8 @@
 # dns_enum
 
+Download the zip file and extract
+Give exicute permission to the dns_enum.sh
+      or
 
   
   
