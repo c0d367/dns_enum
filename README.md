@@ -3,13 +3,14 @@
 Download the zip file and extract
 Give exicute permission to the dns_enum.sh
       or
-
+git clone https://github.com/c0d367/dns_enum.git
+chmod 755 dns_enum.sh
   
-  
-  If Domain name in file eg :
+ # Running procedure
+  If Domain name in file eg :<br>
     ./DNS_enume_with_if.sh F file_name.txt
   
-  If Domain name in Direct eg :
+  If Domain name in Direct eg :<br>
     ./DNS_enume_with_if.sh D domain_name
   
   For HELP                 
