@@ -1,10 +1,10 @@
-# dns_enum
+# <font color="red">dns_enum</font>
 
 Download the zip file and extract<br>
 Give exicute permission to the dns_enum.sh<br>
               or<br>
-git clone https://github.com/c0d367/dns_enum.git<br>
-chmod 755 dns_enum.sh
+<i>git clone https://github.com/c0d367/dns_enum.git<br>
+chmod 755 dns_enum.sh</i>
   
  # Running procedure
   If Domain name in file eg :<br>
